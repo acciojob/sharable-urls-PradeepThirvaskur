@@ -1,1 +1,9 @@
-
+#name,#year{
+	margin-bottom:1rem;
+	display:block;
+}
+label{
+	margin-bottom:1px;
+	display:block;
+	
+}
